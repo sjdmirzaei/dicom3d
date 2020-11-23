@@ -143,5 +143,6 @@ namespace dicom3d
             renderer3D.Render();
             Coloring(100);
         }
+
     }
 }
