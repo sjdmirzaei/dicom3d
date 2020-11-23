@@ -138,7 +138,6 @@ namespace dicom3d
 
         private void Button1_Click(object sender, EventArgs e)
         {
-
             vol.UpdateScalarOpacityforSampleSize(renderer3D, 100);
 
             renderer3D.Render();
